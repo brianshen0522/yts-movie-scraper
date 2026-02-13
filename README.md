@@ -15,7 +15,7 @@ A Rust-based toolkit to scrape and manage YTS movie torrents with progress track
 
 1. Clone or download this repository
 ```bash
-https://github.com/brianshen0522/yts-movie-scraper
+git clone https://github.com/brianshen0522/yts-movie-scraper
 ```
 
 2. Navigate to the project directory:
